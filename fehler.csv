@@ -29,13 +29,13 @@ MitarbeiterID,ErrorID,Auftragsnummer,Produkttyp,Arbeitsplatz,Fehlerkategorie,Bau
 128,28,1028,Coupe 1,4,Plattenfehler,Grundplatte,29.11.2023,12:00,Die Grundplatte hat Risse und muss ersetzt werden.
 129,29,1029,Coupe 2,5,Montagefehler,Endmontage,29.11.2023,13:30,Die Endmontage wurde nicht ordnungsgemäß durchgeführt.
 130,30,1030,SUV 4,6,Montagefehler,Elektrik,30.11.2023,14:45,Die Verkabelung wurde fehlerhaft montiert.
-131,31,1031,Coupe 3,1,Schnittfehler,Karosserie,29.12.2023,08:30,Beim Sägen wurde ein Teil falsch geschnitten.
-132,32,1032,Coupe 4,2,Bohrfehler,Elektrik,25.12.2023,09:15,Die Bohrungen wurden an der falschen Stelle gemacht.
-133,33,1033,SUV 6,3,Montagefehler,Elektrik,26.12.2023,10:45,Die Elektrik-Baugruppe wurde falsch montiert.
-134,34,1034,SUV 7,4,Plattenfehler,Grundplatte,28.12.2023,12:00,Die Grundplatte hat Risse und muss ersetzt werden.
-135,35,1035,Coupe 5,5,Montagefehler,Endmontage,24.12.2023,13:30,Die Endmontage wurde nicht ordnungsgemäß durchgeführt.
-136,36,1036,SUV 8,6,Montagefehler,Elektrik,30.12.2023,14:45,Die Verkabelung wurde fehlerhaft montiert.
-137,37,1037,SUV 1,1,Schnittfehler,Karosserie,27.12.2023,08:30,Beim Sägen wurde ein Teil falsch geschnitten.
-138,38,1038,SUV 2,2,Bohrfehler,Elektrik,28.12.2023,09:15,Die Bohrungen wurden an der falschen Stelle gemacht.
-139,39,1039,SUV 3,3,Montagefehler,Elektrik,29.12.2023,10:45,Die Elektrik-Baugruppe wurde falsch montiert.
-140,40,1040,Coupe 1,4,Plattenfehler,Grundplatte,25.12.2023,12:00,Die Grundplatte hat Risse und muss ersetzt werden.
+131,31,1031,Coupe 3,1,Schnittfehler,Karosserie,29.11.2023,08:30,Beim Sägen wurde ein Teil falsch geschnitten.
+132,32,1032,Coupe 4,2,Bohrfehler,Elektrik,25.11.2023,09:15,Die Bohrungen wurden an der falschen Stelle gemacht.
+133,33,1033,SUV 6,3,Montagefehler,Elektrik,26.11.2023,10:45,Die Elektrik-Baugruppe wurde falsch montiert.
+134,34,1034,SUV 7,4,Plattenfehler,Grundplatte,28.11.2023,12:00,Die Grundplatte hat Risse und muss ersetzt werden.
+135,35,1035,Coupe 5,5,Montagefehler,Endmontage,24.11.2023,13:30,Die Endmontage wurde nicht ordnungsgemäß durchgeführt.
+136,36,1036,SUV 8,6,Montagefehler,Elektrik,30.11.2023,14:45,Die Verkabelung wurde fehlerhaft montiert.
+137,37,1037,SUV 1,1,Schnittfehler,Karosserie,27.11.2023,08:30,Beim Sägen wurde ein Teil falsch geschnitten.
+138,38,1038,SUV 2,2,Bohrfehler,Elektrik,28.11.2023,09:15,Die Bohrungen wurden an der falschen Stelle gemacht.
+139,39,1039,SUV 3,3,Montagefehler,Elektrik,29.11.2023,10:45,Die Elektrik-Baugruppe wurde falsch montiert.
+140,40,1040,Coupe 1,4,Plattenfehler,Grundplatte,25.11.2023,12:00,Die Grundplatte hat Risse und muss ersetzt werden.
